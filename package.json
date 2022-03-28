@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Miguel Manalo",
-	"test": "this is a test",
+	"description": "Learning backend with free code camp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
